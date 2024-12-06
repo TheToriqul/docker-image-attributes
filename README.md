@@ -19,7 +19,7 @@ This project demonstrates advanced Docker image attribute manipulation, focusing
 
 ## 🏗️ Project Architecture
 
-The project demonstrates a systematic approach to Docker image attribute manipulation through a two-phase process. First, we start with a busybox base image and progressively build layers by adding environment variables and configuring entrypoint/command settings, creating a well-structured image hierarchy. Then, we implement a comprehensive verification phase that includes configuration checks, inheritance testing, and final validation, ensuring all attributes are correctly maintained across layers. This methodical approach culminates in a production-ready image that maintains all specified configurations and demonstrates proper attribute inheritance patterns.
+The project demonstrates a systematic approach to Docker image attribute manipulation through a two-phase process. First, I start with a busybox base image and progressively build layers by adding environment variables and configuring entrypoint/command settings, creating a well-structured image hierarchy. Then, I implement a comprehensive verification phase that includes configuration checks, inheritance testing, and final validation, ensuring all attributes are correctly maintained across layers. This methodical approach culminates in a production-ready image that maintains all specified configurations and demonstrates proper attribute inheritance patterns.
 
 <figure >
   <p align="center">
